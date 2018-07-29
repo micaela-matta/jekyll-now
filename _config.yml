@@ -27,16 +27,17 @@ avatar: https://micaela-matta.github.io/images/Nyan_cat_250px_frame.PNG
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  github: micaela-matta
   dribbble:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
