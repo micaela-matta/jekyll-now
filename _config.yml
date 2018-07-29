@@ -9,7 +9,7 @@ name: Micaela Matta
 description: fluffy unicorn
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://en.wikipedia.org/wiki/File:Nyan_cat_250px_frame.PNG
+avatar: {{site.url}}/images/Nyan_cat_250px_frame.PNG
 
 #
 # Flags below are optional
