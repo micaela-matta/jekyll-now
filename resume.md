@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Resume
-permalink: /Resume/
+permalink: "/Resume/"
+layout: page
 ---
 
 Some information about you!
