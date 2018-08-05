@@ -19,9 +19,13 @@ collections:
     title: Uploads
     output: true
 
+header:
+  overlay_image: http://a--simple--life.tumblr.com/image/66993347911
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "I also take photos. [**Unsplash**](http://a--simple--life.tumblr.com)"
+
 
 header:
-  image: http://a--simple--life.tumblr.com/image/66993347911
 # Site Author
 author:
   name             : "Micaela Matta"
@@ -34,7 +38,7 @@ author:
   github           : "micaela-matta"
   gitlab           :
   linkedin         : "micaela-matta-a691784a" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  tumblr           :
+  tumblr           : "http://a--simple--life.tumblr.com"
 
 permalink: "/:title/"
 version: v1.2.0
