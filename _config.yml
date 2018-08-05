@@ -51,7 +51,7 @@ exclude:
 - CNAME
 remote_theme: mmistakes/minimal-mistakes@4.12.0
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-
+og_image: images/myownimage.jpg
 #header links and categories
 # Defaults
 defaults:
