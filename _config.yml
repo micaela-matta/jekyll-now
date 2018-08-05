@@ -1,6 +1,7 @@
 ---
 title: Micaela Matta.Github.Io
 timezone: UTC
+layout: single
 collections:
   posts:
     title: Posts
