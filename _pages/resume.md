@@ -1,6 +1,6 @@
 ---
 title: Resume
-permalink: "/pages/Resume/"
+permalink: "/_pages/Resume/"
 layout: pages
 ---
 
