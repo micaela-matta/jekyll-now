@@ -55,11 +55,11 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 #header links and categories
 main:
   - title: "Resume"
-    url: resume.md
+    url: pages/resume.md
   - title: "Publications"
     url: https://scholar.google.com/citations?user=o4zoWRQAAAAJ&hl
   - title: "Teaching"
-    url: teaching.md
+    url: pages/teaching.md
   - title: "Institutional page"
     url: https://sites.northwestern.edu/schatz/micaela-matta/
 
