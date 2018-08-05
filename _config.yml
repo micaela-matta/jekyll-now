@@ -19,6 +19,9 @@ collections:
     title: Uploads
     output: true
 
+
+header:
+  image: http://a--simple--life.tumblr.com/image/66993347911
 # Site Author
 author:
   name             : "Micaela Matta"
