@@ -28,7 +28,7 @@ header:
 author:
   name             : "Micaela Matta"
   avatar           : "images/Nyan_cat_250px_frame.PNG"
-  bio              : "computational chemist by day, blues dancer by night, bike commuter in between."
+  bio              : #"computational chemist by day, blues dancer by night, bike commuter in between."
   location         : "Chicago, IL"
   email            : "micaela.matta@northwestern.edu"
   uri              :
@@ -36,7 +36,7 @@ author:
   github           : "micaela-matta"
   gitlab           :
   linkedin         : "micaela-matta-a691784a" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  tumblr           : "http://a--simple--life.tumblr.com"
+  tumblr           : #"http://a--simple--life.tumblr.com"
 
 permalink: "/:title/"
 version: v1.2.0
