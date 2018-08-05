@@ -4,12 +4,10 @@ permalink: "/pages/Resume/"
 layout: pages
 ---
 
-Some information about you!
+
 
 ### More Information
 
+a downloadable pdf version of my Resume is available here.
 
-
-### Contact me
-
-[matta.micaela@gmail.com](mailto:matta.micaela@gmail.com)
+###
