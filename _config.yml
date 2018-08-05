@@ -10,25 +10,25 @@ collections:
     output: true
 name: Micaela Matta
 description: fluffy unicorn
-url:
+url: 
 baseurl: ''
 avatar: https://micaela-matta.github.io/images/Nyan_cat_250px_frame.PNG
 footer-links:
   github: micaela-matta
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  instagram:
-  linkedin:
-  pinterest:
-  rss:
-  twitter:
-  stackoverflow:
-  youtube:
-  googleplus:
-disqus:
-google_analytics:
+  dribbble: 
+  email: 
+  facebook: 
+  flickr: 
+  instagram: 
+  linkedin: 
+  pinterest: 
+  rss: 
+  twitter: 
+  stackoverflow: 
+  youtube: 
+  googleplus: 
+disqus: 
+google_analytics: 
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
@@ -42,10 +42,9 @@ gems:
 - jekyll-sitemap
 - jekyll-feed
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
-
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- CNAME
 remote_theme: mmistakes/minimal-mistakes
