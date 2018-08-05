@@ -8,19 +8,19 @@ description              : "my personal website"
 url                      : "https://micaela-matta.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : micaela-matta/micaela-matta.github.io
-teaser                   : "images/myownimage.jpg"
+teaser                   : "/images/myownimage.jpg"
 timezone: UTC
 
 
 header:
-  overlay_image: images/myownimage.jpg
+  overlay_image: /images/myownimage.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "I also take photos. [**Unsplash**](http://a--simple--life.tumblr.com)"
 
 # Site Author
 author:
   name             : "Micaela Matta"
-  avatar           : "images/Nyan_cat_250px_frame.PNG"
+  avatar           : "/images/Nyan_cat_250px_frame.PNG"
   bio              : #"computational chemist by day, blues dancer by night, bike commuter in between."
   location         : "Chicago, IL"
   email            : "micaela.matta@northwestern.edu"
@@ -53,7 +53,7 @@ exclude:
 - CNAME
 remote_theme: mmistakes/minimal-mistakes@4.12.0
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-og_image: images/myownimage.jpg
+og_image: /images/myownimage.jpg
 #header links and categories
 # Defaults
 defaults:
