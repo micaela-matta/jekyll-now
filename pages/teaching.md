@@ -1,6 +1,6 @@
 ---
 title: Teaching statement
-permalink: "/_pages/Teaching/"
+permalink: "/pages/Teaching/"
 layout: page
 ---
 
