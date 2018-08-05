@@ -1,9 +1,9 @@
 main:
   - title: "Resume"
-    url: pages/resume.md
+    url: /pages/resume.md
   - title: "Publications"
     url: https://scholar.google.com/citations?user=o4zoWRQAAAAJ&hl
   - title: "Teaching"
-    url: pages/teaching.md
+    url: /pages/teaching.md
   - title: "Institutional page"
     url: https://sites.northwestern.edu/schatz/micaela-matta/
