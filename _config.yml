@@ -11,13 +11,6 @@ repository               : micaela-matta/micaela-matta.github.io
 teaser                   : "images/myownimage.jpg"
 timezone: UTC
 
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 
 header:
   overlay_image: images/myownimage.jpg
@@ -64,7 +57,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
