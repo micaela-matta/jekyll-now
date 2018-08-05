@@ -1,7 +1,16 @@
 ---
-title: Micaela Matta.Github.Io
+# Site Settings
+locale                   : "en-US"
+title                    : "Micaela Matta"
+title_separator          : "-"
+name                     :
+description              : "fluffy unicorn."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 timezone: UTC
-layout: single
+
 collections:
   posts:
     title: Posts
@@ -9,27 +18,40 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Micaela Matta
-description: fluffy unicorn
-url:
-baseurl: ''
-avatar: https://micaela-matta.github.io/images/Nyan_cat_250px_frame.PNG
-footer-links:
-  github: micaela-matta
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  instagram:
-  linkedin:
-  pinterest:
-  rss:
-  twitter:
-  stackoverflow:
-  youtube:
-  googleplus:
-disqus:
-google_analytics:
+
+# Site Author
+author:
+  name             : "Micaela Matta"
+  avatar           : "images/Nyan_cat_250px_frame.PNG"
+  bio              : "I am an amazing person."
+  location         : "Chicago, IL"
+  email            :
+  uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "micaela-matta"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
@@ -50,3 +72,17 @@ exclude:
 - CNAME
 remote_theme: mmistakes/minimal-mistakes@4.12.0
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
