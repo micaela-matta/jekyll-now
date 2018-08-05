@@ -1,7 +1,7 @@
 ---
 title: Resume
 permalink: "/Resume/"
-layout: page
+layout: pages
 ---
 
 Some information about you!
