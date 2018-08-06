@@ -1,10 +1,10 @@
 ---
 # Site Settings
 locale                   : "en-US"
-title                    : "Micaela Matta"
+title                    : "Micaela Matta - Postdoctoral Researcher @ Northwestern University"
 title_separator          : "|"
 name                     : "Micaela Matta"
-description              : "my personal website"
+description              : ""
 url                      : "https://micaela-matta.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : micaela-matta/micaela-matta.github.io
