@@ -6,6 +6,6 @@ layout: pages
 
 ### More Information
 
-You can download a pdf version of my Resume [here](Resume.pdf).
+You can download a pdf version of my Resume [here](/files/Resume.pdf).
 
 ###
