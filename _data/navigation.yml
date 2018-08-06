@@ -5,5 +5,7 @@ main:
     url: https://scholar.google.com/citations?user=o4zoWRQAAAAJ&hl
   - title: "Teaching"
     url: /pages/Teaching
+  - title: "Projects"
+    url: /pages/Projects
   - title: "Institutional page"
     url: https://sites.northwestern.edu/schatz/micaela-matta/

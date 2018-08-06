@@ -8,6 +8,6 @@ layout: pages
 
 ### More Information
 
-a downloadable pdf version of my Resume is available here.
+a downloadable pdf version of my Resume will be available here.
 
 ###
