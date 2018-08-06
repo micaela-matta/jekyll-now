@@ -8,9 +8,9 @@ header:
 ---
 
 
-I am a postdoctoral research associate in the group of [Prof. George Schatz](http://sites.northwestern.edu/schatz/) at Northwestern University.
+I am a postdoctoral research associate in the [Schatz group](http://sites.northwestern.edu/schatz/) at Northwestern University.
 
-I study novel materials for organic electronics by means of dynamics simulations and electronic structure methods.
+I study novel materials for organic electronics using a combination of molecular dynamics and electronic structure methods.
 
 
 **Buzzwords**: Organic (bio)electronics, non-fullerene acceptors and polymer donors for OPV,
