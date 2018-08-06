@@ -1,5 +1,5 @@
 ---
-title: Teaching statement
+title: Teaching philosophy
 permalink: "/pages/Teaching/"
 layout: single
 header:
