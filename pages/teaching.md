@@ -2,6 +2,8 @@
 title: Teaching statement
 permalink: "/pages/Teaching/"
 layout: single
+header:
+  read_time: None
 ---
 
 Some information about you!
