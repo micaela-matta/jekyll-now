@@ -1,7 +1,7 @@
 ---
 title: Teaching statement
 permalink: "/pages/Teaching/"
-layout: page
+layout: single
 ---
 
 Some information about you!

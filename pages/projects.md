@@ -1,12 +1,12 @@
 ---
 title: Projects
 permalink: "/pages/Projects/"
-layout: pages
+layout: single
 ---
 
 
 
-### 
+###
 
 
 ###

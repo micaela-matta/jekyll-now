@@ -1,7 +1,7 @@
 ---
 title: Resume
 permalink: "/pages/Resume/"
-layout: pages
+layout: single
 ---
 
 ### More Information
