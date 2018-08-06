@@ -3,7 +3,7 @@ title: Teaching statement
 permalink: "/pages/Teaching/"
 layout: single
 header:
-  read_time: None
+  read_time: false
 ---
 
 Some information about you!
