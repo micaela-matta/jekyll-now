@@ -1,5 +1,5 @@
 ---
-title: "Computational \n Materials Design"
+title: "Computational Materials Design"
 permalink: "/"
 header:
   overlay_image: "/images/myownimage.jpg"

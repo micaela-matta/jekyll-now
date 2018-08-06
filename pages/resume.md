@@ -4,10 +4,8 @@ permalink: "/pages/Resume/"
 layout: pages
 ---
 
-
-
 ### More Information
 
-a downloadable pdf version of my Resume will be available here.
+You can download a pdf version of my Resume [here](Resume.pdf).
 
 ###
