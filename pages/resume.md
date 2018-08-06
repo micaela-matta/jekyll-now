@@ -3,7 +3,7 @@ title: Resume
 permalink: "/pages/Resume/"
 layout: single
 header:
-  read_time: None
+  read_time: 
 ---
 
 
