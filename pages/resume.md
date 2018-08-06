@@ -2,8 +2,6 @@
 title: Resume
 permalink: "/pages/Resume/"
 layout: single
-header:
-  read_time: false
 ---
 
 
