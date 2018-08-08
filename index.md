@@ -15,3 +15,8 @@ I study novel materials for organic electronics using a combination of molecular
 
 **Buzzwords**: Organic (bio)electronics, non-fullerene acceptors and polymer donors for OPV,
 mechanical properties of molecular solids, molecular dynamics, (TD)-DFT, self-assembly, photophysics, charge/exciton transport.
+
+
+## News
+
+29 Aug 2018 - I will present my work at [Wonder and Skepticism] (http://www.wonderandskepticism.com/about)

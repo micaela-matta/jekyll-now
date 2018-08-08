@@ -5,7 +5,7 @@ layout: single
 ---
 ## Events
 
-I will be presenting at the August event of [Wonders and Skepticism](http://www.wonderandskepticism.com/about) at the Empty Bottle, a monthly series where scientists talk about their work with patrons over beer(s).
+I will be presenting at the August event of [Wonder and Skepticism](http://www.wonderandskepticism.com/about) at the Empty Bottle, a monthly series where scientists talk about their work with patrons over beer(s).
 
 
 
