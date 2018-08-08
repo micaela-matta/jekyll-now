@@ -9,4 +9,4 @@ I will be presenting at the August event of [Wonders and Skepticism](http://www.
 
 
 
-I also volunteered for [Soapbox Science](http://soapboxscience.org) in Chicago (their first ever in the US!) and it was awesome. I look forward to participating next year.
+I also volunteered for [Soapbox Science](http://soapboxscience.org) in Chicago (their first ever event in the US!) and it was awesome. I look forward to participating next year.
