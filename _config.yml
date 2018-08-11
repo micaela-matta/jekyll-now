@@ -15,7 +15,7 @@ timezone: UTC
 # Site Author
 author:
   name             : "Micaela Matta"
-  avatar           : "/images/profile_photo.jpg"
+  avatar           : "/images/profile_photo.png"
   bio              : #"computational chemist by day, blues dancer by night, bike commuter in between."
   location         : "Chicago, IL"
   email            : "micaela.matta@northwestern.edu"
