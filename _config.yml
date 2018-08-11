@@ -15,7 +15,7 @@ timezone: UTC
 # Site Author
 author:
   name             : "Micaela Matta"
-  avatar           : "/images/Nyan_cat_250px_frame.PNG"
+  avatar           : "/images/profile_photo.jpg"
   bio              : #"computational chemist by day, blues dancer by night, bike commuter in between."
   location         : "Chicago, IL"
   email            : "micaela.matta@northwestern.edu"
