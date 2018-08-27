@@ -19,6 +19,8 @@ mechanical properties of molecular solids, molecular dynamics, (TD)-DFT, self-as
 
 ## News
 
+ Thanks to a [NumFOCUS Grant](https://numfocus.org/blog/summer-2018-open-source-development-grants) for community education and engagement, I am co-organizing the [2018 MDAnalysis Workshop and Hackathon](https://www.workshop.mdanalysis.org) here at Northwestern University!
+
 20 Aug 2018 - Our [PNAS](http://www.pnas.org/content/early/2018/08/15/1807535115) paper on non-fullerene electron acceptors is now out!
 
 29 Aug 2018 - I will present my work at [Wonder and Skepticism](http://www.wonderandskepticism.com/about)
