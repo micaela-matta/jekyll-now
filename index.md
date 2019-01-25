@@ -23,9 +23,11 @@ mechanical properties of molecular solids, molecular dynamics, (TD)-DFT, self-as
 
 ## News
 
+23 Jan 2019 - Our paper on the fluorination impact on non-fullerene acceptors is just accepted on [JACS](https://pubs.acs.org/doi/10.1021/jacs.8b13653)!!!
+
 25 Nov 2018 - I'm going to the [MRS Fall Meeting in Boston](https://www.mrs.org/fall2018) and I will give a talk on my recent work on OPV.
 
-13 Nov 2018 - Thanks to a [NumFOCUS Grant](https://numfocus.org/blog/summer-2018-open-source-development-grants) for community education and engagement, I am co-organizing the [2018 MDAnalysis Workshop and Hackathon](https://www.workshop.mdanalysis.org) here at Northwestern University!
+13 Nov 2018 - Thanks to a [NumFOCUS Grant](https://numfocus.org/blog/summer-2018-open-source-development-grants) for community education and engagement, I am co-organizing the [2018 MDAnalysis Workshop and Hackathon](https://www.workshop.mdanalysis.org) here at Northwestern University
 
 7 Nov 2018 - [Our work](https://pubs.acs.org/doi/10.1021/acsami.8b15319) on rubrene crystals as mechanical sensors has been accepted in ACS Applied Materials & Interfaces
 
