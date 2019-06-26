@@ -1,5 +1,5 @@
 ---
-title: "Dr Micaela Matta"
+title: "Micaela Matta, PhD"
 permalink: "/"
 header:
  # overlay_image: "/images/myownimage.jpg"
@@ -7,10 +7,9 @@ header:
  #caption: "I also take [photos](http://a--simple--life.tumblr.com)"
 ---
 
-
 I am a **Royal Society Newton International Fellow** at the University of Liverpool, hosted by prof. Alessandro Troisi.
 
-**Towards eumelanin-based bioelectronic devices: a multiscale description of ionic and electronic transport** 
+## **Towards eumelanin-based bioelectronic devices: a multiscale description of ionic and electronic transport**
 
 I am working on developing a computational model of eumelanin, the biopigment present in human hair, eyes and skin, as a potential semiconductor in bioelectronic devices (sensors, implants). My goal is to obtain an atomistic description of this biopolymer able to capture its structure-property relationship, and ultimately develop a charge transport model able to capture both electronic and ionic conduction.
 
