@@ -1,27 +1,27 @@
 ---
-title: "Computational Materials Design"
+title: "Dr Micaela Matta"
 permalink: "/"
 header:
-  overlay_image: "/images/myownimage.jpg"
-  overlay_filter: 0.9 # same as adding an opacity of 0.5 to a black background
-  caption: "I also take [photos](http://a--simple--life.tumblr.com)"
+ # overlay_image: "/images/myownimage.jpg"
+ # overlay_filter: 0.9 # same as adding an opacity of 0.5 to a black background
+ #caption: "I also take [photos](http://a--simple--life.tumblr.com)"
 ---
 
-I am a Postdoctoral Research Associate in the [Schatz group](http://sites.northwestern.edu/schatz/) at Northwestern University.
 
-I study novel materials for organic electronics using a combination of molecular dynamics and electronic structure methods.
+I am a **Royal Society Newton International Fellow** at the University of Liverpool, hosted by prof. Alessandro Troisi.
 
+**Towards eumelanin-based bioelectronic devices: a multiscale description of ionic and electronic transport** 
 
-I have formally accepted a **Royal Society Newton International Fellowship** that will bring me to the University of Liverpool in March 2019.
-
-I will work with prof. Alessandro Troisi on developing a multiscale description of eumelanin-based transistors for bioelectronics.
-
+I am working on developing a computational model of eumelanin, the biopigment present in human hair, eyes and skin, as a potential semiconductor in bioelectronic devices (sensors, implants). My goal is to obtain an atomistic description of this biopolymer able to capture its structure-property relationship, and ultimately develop a charge transport model able to capture both electronic and ionic conduction.
 
 **Buzzwords**: Organic (bio)electronics, eumelanin, OECTs, non-fullerene acceptors and polymer donors for OPV,
 mechanical properties of molecular solids, molecular dynamics, (TD)-DFT, self-assembly, photophysics, charge/exciton transport.
 
 
 ## News
+
+
+25 Mar 2019 - I officially started my Newton Fellowship!
 
 23 Jan 2019 - Our paper on the fluorination impact on non-fullerene acceptors is just accepted on [JACS](https://pubs.acs.org/doi/10.1021/jacs.8b13653)!!!
 
