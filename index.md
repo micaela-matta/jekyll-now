@@ -19,8 +19,13 @@ mechanical properties of molecular solids, molecular dynamics, (TD)-DFT, self-as
 
 ## News
 
+28 Aug 2019 - We officially released a code for molecular network calculations! Find it on [github](https://github.com/kugupu/kugupu)
 
-25 Mar 2019 - I officially started my Newton Fellowship!
+24 Aug 2019 - I will be presenting my work on organic semiconductors for organic solar cells at the ACS Fall Meeting 2019 in San Diego, CA.
+
+ 5 Aug 2019 - Our paper on the side chain optimization of polymer donors for organic photovoltaics is out in [JACS](https://pubs.acs.org/doi/abs/10.1021/jacs.9b03770)!!!!
+
+25 Mar 2019 - I officially started my Newton International Fellowship!
 
 23 Jan 2019 - Our paper on the fluorination impact on non-fullerene acceptors is just accepted on [JACS](https://pubs.acs.org/doi/10.1021/jacs.8b13653)!!!
 
