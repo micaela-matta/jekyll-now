@@ -1,6 +1,6 @@
 main:
-  - title: "Resume"
-    url: /pages/Resume
+  - title: "CV"
+    url: /pages/CV
   - title: "Publications"
     url: https://scholar.google.com/citations?user=o4zoWRQAAAAJ&hl
   - title: "Outreach"
