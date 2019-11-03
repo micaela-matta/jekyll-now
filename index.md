@@ -16,6 +16,7 @@ I am working on developing a computational model of eumelanin, the biopigment pr
 **Buzzwords**: Organic (bio)electronics, eumelanin, OECTs, non-fullerene acceptors and polymer donors for OPV,
 mechanical properties of molecular solids, molecular dynamics, (TD)-DFT, self-assembly, photophysics, charge/exciton transport.
 
+<a class="twitter-timeline" href="https://twitter.com/micaelamatta?ref_src=twsrc%5Etfw">Tweets by micaelamatta</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## News
 
