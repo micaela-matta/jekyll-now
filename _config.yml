@@ -25,9 +25,9 @@ author:
   twitter          : "micaelamatta"
   linkedin         : "micaela-matta-a691784a" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
 
-sidebar:
-  - title: "Twitter feed"
-    text: '<a class="twitter-timeline" style="font-size:100%;" href="https://twitter.com/micaelamatta?ref_src=twsrc%5Etfw">Tweets by micaelamatta</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
+  sidebar:
+    - title: "Twitter feed"
+      text: '<a class="twitter-timeline" style="font-size:100%;" href="https://twitter.com/micaelamatta?ref_src=twsrc%5Etfw">Tweets by micaelamatta</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
 
 plugins:
   - jekyll-archives
