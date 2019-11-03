@@ -3,9 +3,10 @@ title: Outreach activities
 permalink: "/pages/Outreach/"
 layout: single
 ---
-## Future Events
 
-I have been quite busy with moving across the pond and starting my Fellowship, but I look forward to engage in outreach events at my new institution! 
+I am involved in kickstarting the local chapter of [500WomenScientists](https://500womenscientists.org), an international community of women committing towards inclusivity in science. 
+
+I am participating in [SkypeaScientist](https://www.skypeascientist.com) which pairs scientists with classrooms around the world. 
 
 ## Past Events
 
