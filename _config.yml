@@ -24,7 +24,6 @@ author:
   github           : "micaela-matta"
   twitter          : "micaelamatta"
   linkedin         : "micaela-matta-a691784a" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  tumblr           : #"http://a--simple--life.tumblr.com"
 
 plugins:
   - jekyll-archives
