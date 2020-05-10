@@ -2,7 +2,7 @@
 title: "Dr Micaela Matta"
 permalink: "/"
 header:
-   overlay_image: /images/ionscapes_bare.pdf
+   overlay_image: /images/ionscapes_bare.png
    overlay_filter: 0.6 #
 ---
 
