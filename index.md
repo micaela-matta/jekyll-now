@@ -6,7 +6,7 @@ header:
  #overlay_filter: 0.6 #
 ---
 
-I am a **Marie Curie Fellow** at the University of Liverpool, hosted in the group of Prof. Alessandro Troisi.
+I am a **Marie Curie Fellow** at the University of Liverpool, hosted in the group of [Prof. Alessandro Troisi](https://www.liverpool.ac.uk/chemistry/staff/alessandro-troisi/).
 
 ## **MSCA-IF H2020 BIOMOSAIC**
 #### From biopigments to bioelectronics: modeling semiconducting eumelanin-based interfaces
