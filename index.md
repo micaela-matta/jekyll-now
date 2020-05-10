@@ -2,7 +2,7 @@
 title: ""
 permalink: "/"
 header:
-  overlay_image: /images/ionscapes_bare.jpg
+  overlay_image: "/images/ionscape_bare.png"
   overlay_filter: 0.6 #
 ---
 
