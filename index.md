@@ -19,6 +19,11 @@ mechanical properties of molecular solids, molecular dynamics, (TD)-DFT, self-as
 
 ## News
 
+08 May 2020 - My preprint on ion chelation in glycolated semiconductors is online on [ChemRxiv](https://chemrxiv.org/articles/Ion_Coordination_and_Chelation_in_a_Glycolated_Polymer_Semiconductor_Molecular_Dynamics_and_X-Ray_Fluorescence_Study/12264308) 
+
+01 Apr 2020 - I have officially started my Marie Curie Fellowship
+
+15 Dec 2019 - My ChemRxiv preprint on [DHICA melanin](https://chemrxiv.org/articles/Relation_Between_Local_Structure_Electric_Dipole_and_Charge_Carrier_Dynamics_in_DHICA_Melanin_a_Model_for_Biocompatible_Semiconductors/11323016) is available
 
 28 Aug 2019 - We officially released a code for molecular network calculations! Find it on [github](https://github.com/kugupu/kugupu)
 
