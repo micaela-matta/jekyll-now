@@ -1,5 +1,5 @@
 ---
-title: "Dr Micaela Matta"
+title: ""
 permalink: "/"
 header:
    overlay_image: /images/ionscapes_bare.png
