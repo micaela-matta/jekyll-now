@@ -2,7 +2,7 @@
 title: "Micaela Matta, PhD"
 permalink: "/"
 header:
- # overlay_image: "/images/ionscapes_bare.pdf"
+   overlay_image: "/images/ionscapes_bare.pdf"
 ---
 
 I am a **Marie Curie Fellow** at the University of Liverpool, hosted in the group of Prof. Alessandro Troisi.
