@@ -1,5 +1,5 @@
 ---
-title: "Micaela Matta, PhD"
+title: "Dr Micaela Matta"
 permalink: "/"
 header:
    overlay_image: "/images/ionscapes_bare.pdf"
@@ -8,6 +8,7 @@ header:
 I am a **Marie Curie Fellow** at the University of Liverpool, hosted in the group of Prof. Alessandro Troisi.
 
 ## **MSCA-IF H2020 BIOMOSAIC**
+#### From biopigments to bioelectronics: modeling semiconducting eumelanin-based interfaces
 
 I am working on developing a computational model of eumelanin, the biopigment present in human hair, eyes and skin, as a potential semiconductor in bioelectronic devices (sensors, implants). My goal is to obtain an atomistic description of this biopolymer able to capture its structure-property relationship, and ultimately develop a charge transport model able to capture both electronic and ionic conduction.
 
