@@ -8,7 +8,7 @@ description              : ""
 url                      : "https://micaela-matta.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : micaela-matta/micaela-matta.github.io
-teaser                   : "/images/myownimage.jpg"
+teaser                   : "/images/ionscapes_bare.png"
 timezone: UTC
 
 
@@ -16,9 +16,9 @@ timezone: UTC
 author:
   name             : "Micaela Matta"
   avatar           : "/images/profile_photo.png"
-  bio              : "computational chemist by day, blues dancer by night, bike commuter in between."
+  bio              : ""
   location         : "Liverpool, UK"
-  email            : "micaela.matta@northwestern.edu"
+  email            : "micaela.matta@liverpool.ac.uk"
   uri              :
   flickr           :
   github           : "micaela-matta"
