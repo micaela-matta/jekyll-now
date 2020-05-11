@@ -1,6 +1,6 @@
 ---
 title: CV 
-permalink: "/pages/Resume/"
+permalink: "/pages/CV/"
 layout: single
 ---
 
@@ -8,4 +8,4 @@ layout: single
 
 ### More Information
 
-You can download a pdf version of my Curriculum Vitae [here](/files/CV_MM_2019.pdf).
+You can download a pdf version of my Curriculum Vitae [here](/files/CV_MM_2020.pdf).

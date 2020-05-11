@@ -6,18 +6,15 @@ header:
  #overlay_filter: 0.6 #
 ---
 
-I am a **Marie Curie Fellow** at the University of Liverpool, hosted in the group of [Prof. Alessandro Troisi](https://www.liverpool.ac.uk/chemistry/staff/alessandro-troisi/).
+I am a Marie Curie Fellow at the University of Liverpool, hosted in the group of [Prof. Alessandro Troisi](https://www.liverpool.ac.uk/chemistry/staff/alessandro-troisi/).
 
-## **MSCA-IF H2020 BIOMOSAIC**
-#### From biopigments to bioelectronics: modeling semiconducting eumelanin-based interfaces
+### **MSCA-IF BIOMOSAIC**
+### From biopigments to bioelectronics: modeling semiconducting eumelanin-based interfaces
 
-I am working on developing a computational model of eumelanin, the biopigment present in human hair, eyes and skin, as a potential semiconductor in bioelectronic devices (sensors, implants). My goal is to obtain an atomistic description of this biopolymer able to capture its structure-property relationship, and ultimately develop a charge transport model able to capture both electronic and ionic conduction.
-
-**Buzzwords**: Organic (bio)electronics, eumelanin, OECTs, non-fullerene acceptors and polymer donors for OPV,
-mechanical properties of molecular solids, molecular dynamics, (TD)-DFT, self-assembly, photophysics, charge/exciton transport.
+I am working on developing a computational model of eumelanin, the biopigment present in human hair, eyes and skin, as a potential semiconductor in bioelectronic devices. My goal is to unravel its structure-property relationship, and ultimately build a charge transport model able to capture both electronic and ionic conduction.
 
 
-## News
+### News
 
 08 May 2020 - My preprint on ion chelation in glycolated semiconductors is online on [ChemRxiv](https://chemrxiv.org/articles/Ion_Coordination_and_Chelation_in_a_Glycolated_Polymer_Semiconductor_Molecular_Dynamics_and_X-Ray_Fluorescence_Study/12264308) 
 
