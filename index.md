@@ -6,7 +6,7 @@ header:
  #overlay_filter: 0.6 #
 ---
 
-I am a Marie Curie Fellow at the University of Liverpool, hosted in the group of [Prof. Alessandro Troisi](https://www.liverpool.ac.uk/chemistry/staff/alessandro-troisi/).
+I am a Marie Curie Fellow at the University of Liverpool, hosted in the group of Prof. Alessandro Troisi.
 
 ### MSCA-IF BIOMOSAIC *From biopigments to bioelectronics: modeling semiconducting eumelanin-based interfaces*
 
@@ -15,7 +15,11 @@ I am working on developing a computational model of eumelanin, the biopigment pr
 
 ### News
 
-08 May 2020 - My preprint on ion chelation in glycolated semiconductors is online on [ChemRxiv](https://chemrxiv.org/articles/Ion_Coordination_and_Chelation_in_a_Glycolated_Polymer_Semiconductor_Molecular_Dynamics_and_X-Ray_Fluorescence_Study/12264308) 
+04 Aug 2020 - Read the accepted Chemistry of Materials paper on ion chelation and coordination in p(g2T-TT) [here](https://pubs.acs.org/doi/10.1021/acs.chemmater.0c01984)
+
+22 Jul 2020 - Our collaborative work on the side chain engineering of glycolated polymers with the McCulloch group is published in [Chemistry of Materials](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.0c02041)
+
+08 May 2020 - My preprint on ion chelation in the glycolated polymer p(g2T-TT) is online on [ChemRxiv](https://chemrxiv.org/articles/Ion_Coordination_and_Chelation_in_a_Glycolated_Polymer_Semiconductor_Molecular_Dynamics_and_X-Ray_Fluorescence_Study/12264308) 
 
 01 Apr 2020 - I have officially started my Marie Curie Fellowship
 
