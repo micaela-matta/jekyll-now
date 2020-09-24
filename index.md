@@ -7,6 +7,8 @@ header:
 ---
 
 I am a Marie Curie Fellow at the University of Liverpool, hosted in the group of Prof. Alessandro Troisi.
+
+
 I am interested in how the macroscopic properties of organic semiconductors are determined at the nanoscale level. Throughout my work, I have sought to relate the insight from a wide range of theoretical methods into valuable models that directly translate to experimental observables. For my publications list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=o4zoWRQAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### MSCA-IF BIOMOSAIC *From biopigments to bioelectronics: modeling semiconducting eumelanin-based interfaces*
@@ -22,9 +24,11 @@ I am working on developing a computational model of eumelanin, the biopigment pr
 
 08 May 2020 - My preprint on ion chelation in the glycolated polymer p(g2T-TT) is online on [ChemRxiv](https://chemrxiv.org/articles/Ion_Coordination_and_Chelation_in_a_Glycolated_Polymer_Semiconductor_Molecular_Dynamics_and_X-Ray_Fluorescence_Study/12264308) 
 
-01 Apr 2020 - I have officially started my Marie Curie Fellowship
+01 Apr 2020 - I have officially started my Marie Curie Fellowship!
 
-15 Dec 2019 - My ChemRxiv preprint on [DHICA melanin](https://chemrxiv.org/articles/Relation_Between_Local_Structure_Electric_Dipole_and_Charge_Carrier_Dynamics_in_DHICA_Melanin_a_Model_for_Biocompatible_Semiconductors/11323016) is available
+22 Jan 2020 - My paper on DHICA melanin is published on [J Phys Chem Letters](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b03696)
+
+<!--15 Dec 2019 - My ChemRxiv preprint on [DHICA melanin](https://chemrxiv.org/articles/Relation_Between_Local_Structure_Electric_Dipole_and_Charge_Carrier_Dynamics_in_DHICA_Melanin_a_Model_for_Biocompatible_Semiconductors/11323016) is available-->
 
 <!-- 28 Aug 2019 - We officially released a code for molecular network calculations! Find it on [github](https://github.com/kugupu/kugupu)-->
 
