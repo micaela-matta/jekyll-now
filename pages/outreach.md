@@ -4,9 +4,10 @@ permalink: "/pages/Outreach/"
 layout: single
 ---
 
+
 ### 2020
 
-I will be speaking at Liverpool Pint of Science 2020 which should hopefully be held this autumn.
+I will be speaking at Liverpool Pint of Science 2020 which has been postponed to May 2021.
 
 I coordinate the Liverpool pod of [500WomenScientists](https://500womenscientists.org), an international community of women committing towards inclusivity in science. 
 
