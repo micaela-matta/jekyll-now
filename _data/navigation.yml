@@ -3,9 +3,9 @@ main:
     url: /pages/CV
   - title: "Publications"
     url: https://scholar.google.com/citations?user=o4zoWRQAAAAJ&hl
-  - title: "Outreach"
-    url: /pages/Outreach
   - title: "Projects"
     url: /pages/Projects
-  - title: "Institutional page"
-    url: https://sites.northwestern.edu/schatz/micaela-matta/
+  - title: "Teaching"
+    url: /pages/Teaching
+  - title: "Outreach"
+    url: /pages/Outreach
