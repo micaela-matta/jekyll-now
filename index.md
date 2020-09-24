@@ -6,7 +6,7 @@ header:
  #overlay_filter: 0.6 #
 ---
 
-I am a Marie Curie Fellow at the University of Liverpool, hosted in the group of Prof. Alessandro Troisi.
+I am a Marie Curie Fellow at the University of Liverpool, hosted in the group of Alessandro Troisi.
 
 
 I am interested in how the macroscopic properties of organic semiconductors are determined at the nanoscale level. Throughout my work, I have sought to relate the insight from a wide range of theoretical methods into valuable models that directly translate to experimental observables. For my publications list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=o4zoWRQAAAAJ&view_op=list_works&sortby=pubdate).
