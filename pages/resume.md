@@ -14,7 +14,7 @@ layout: single
   </tr>
   <tr>
     <td>Apr 2019 – March 2020</td>
-    <td>Royal Society Newton International Fellow, <br>University of Liverpool<br>Host: Prof. Alessandro Troisi<br>Research activity: melanins as biocompatible mixed conductors; multiscale simulations and theoretical framework describing mixed conduction</td>
+    <td>Royal Society Newton International Fellow, University of Liverpool<br>Host: Prof. Alessandro Troisi<br>Research activity: melanins as biocompatible mixed conductors; multiscale simulations and theoretical framework describing mixed conduction</td>
   </tr>
   <tr>
     <td>Mar 2017 – Feb 2019</td>
@@ -22,7 +22,7 @@ layout: single
   </tr>
   <tr>
     <td>Feb 2015 –  Jan 2017</td>
-    <td>LabEx AMADEus Postdoctoral research associate, <br>Université de Bordeaux<br>PI: Prof. Luca Muccioli<br>Research activity: interplay between mechanical properties and charge transport of molecular semiconductors<br></td>
+    <td>LabEx AMADEus Postdoctoral research associate, Université de Bordeaux<br>PI: Prof. Luca Muccioli<br>Research activity: interplay between mechanical properties and charge transport of molecular semiconductors<br></td>
   </tr>
 </tbody>
 </table>
