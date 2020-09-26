@@ -5,7 +5,7 @@ title                    : "Micaela Matta"
 title_separator          : "|"
 name                     : "Micaela Matta"
 description              : ""
-url                      : "www.micaelamatta.com"
+url                      : #"www.micaelamatta.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : micaela-matta/micaelamatta.com
 teaser                   : "/images/ionscapes_bare.png"
