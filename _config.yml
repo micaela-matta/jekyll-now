@@ -7,7 +7,7 @@ name                     : "Micaela Matta"
 description              : ""
 url                      : "www.micaelamatta.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : micaela-matta/micaelamatta.com
+repository               : micaela-matta/micaela-matta.github.io
 teaser                   : "/images/ionscapes_bare.png"
 timezone: UTC
 
