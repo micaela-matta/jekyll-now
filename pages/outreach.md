@@ -1,6 +1,6 @@
 ---
 title: Outreach activities
-permalink: "/pages/Outreach/"
+permalink: "micaelamatta.com/pages/Outreach/"
 layout: single
 ---
 
