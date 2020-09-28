@@ -4,6 +4,8 @@ permalink: "/pages/CV/"
 layout: single
 ---
 
+You can dowload my full CV [here](/CV_MM_2020_norefs.pdf).
+
 ### Employment History
 
 <table>
