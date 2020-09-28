@@ -4,6 +4,8 @@ permalink: "/pages/Teaching/"
 layout: single
 ---
 
+Dowload my teaching statement [here](/TeachingStatement_web.pdf)
+
 ### Teaching Interests
  
 
