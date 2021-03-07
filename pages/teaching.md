@@ -15,7 +15,7 @@ I am confident teaching all flavors of physical chemistry and general chemistry 
 
 Over my PhD and postdoctoral career, I have acquired experience in teaching a wide range of physical chemistry laboratory classes, including kinetics and thermodynamics, quantum chemistry, molecular dynamics, scientific programming in Italian, English and French. At Northwestern University I gave guest General Chemistry lectures to ~200 first year students. 
 
-I am passionate about teaching coding and data analysis skills, particularly in the context of computational materials science, and I am currently training to become a certified Software Carpentries instructor. 
+I am passionate about teaching coding and data analysis skills, particularly in the context of computational materials science, and I am currently training to become a certified [Software Carpentry](https://software-carpentry.org) instructor. 
 
 I co-organized and taught a 2-day workshop on data analysis of molecular simulations based around the python package MDAnalysis that saw participants from across the US. The workshop material is freely available [here](https://www.mdanalysis.org/WorkshopHackathon2018/). 
 
