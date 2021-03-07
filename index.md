@@ -6,8 +6,7 @@ header:
  #overlay_filter: 0.6 #
 ---
 
-I am a Marie Curie Fellow at the University of Liverpool, hosted in the group of Alessandro Troisi.
-
+I am a Marie Skłodowska-Curie Individual Fellow at the University of Liverpool, hosted in the group of Alessandro Troisi.
 
 I am interested in how the macroscopic properties of organic semiconductors are determined at the nanoscale level. Throughout my work, I have sought to relate the insight from a wide range of theoretical methods into valuable models that directly translate to experimental observables. For my publications list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=o4zoWRQAAAAJ&view_op=list_works&sortby=pubdate).
 
@@ -15,12 +14,9 @@ I am interested in how the macroscopic properties of organic semiconductors are 
 
 I am working on developing a computational model of eumelanin, the biopigment present in human hair, eyes and skin, as a potential semiconductor in bioelectronic devices. My goal is to unravel its structure-property relationship, and ultimately build a charge transport model able to capture both electronic and ionic conduction.
 
-
-<div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/micaelamatta maxwidth=500 limit=5 %}
-</div>
-
 ### News
+
+10 Mar 2021 - I have been chosen to represent the Royal Society at the [Voice of the Future 2021](https://my.rsb.org.uk/item.php?eventid=3234) event with MPs and members of the UK government
 
 04 Aug 2020 - Read the accepted Chemistry of Materials paper on ion chelation and coordination in p(g2T-TT) [here](https://pubs.acs.org/doi/10.1021/acs.chemmater.0c01984)
 
