@@ -16,6 +16,10 @@ I am interested in how the macroscopic properties of organic semiconductors are 
 I am working on developing a computational model of eumelanin, the biopigment present in human hair, eyes and skin, as a potential semiconductor in bioelectronic devices. My goal is to unravel its structure-property relationship, and ultimately build a charge transport model able to capture both electronic and ionic conduction.
 
 
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/micaelamatta maxwidth=500 limit=5 %}
+</div>
+
 ### News
 
 04 Aug 2020 - Read the accepted Chemistry of Materials paper on ion chelation and coordination in p(g2T-TT) [here](https://pubs.acs.org/doi/10.1021/acs.chemmater.0c01984)
