@@ -32,7 +32,7 @@ author:
 
 plugins:
   - jekyll-archives
-
+  - jekyll-gist
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
