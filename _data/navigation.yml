@@ -3,6 +3,8 @@ main:
     url: /pages/CV
   - title: "Publications"
     url: https://scholar.google.com/citations?user=o4zoWRQAAAAJ&hl
+  - title: "MSCA-IF"
+    url: /pages/MSCA-IF
   - title: "Projects"
     url: /pages/Projects
   - title: "Teaching"
