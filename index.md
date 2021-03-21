@@ -16,7 +16,15 @@ I am working on developing a computational model of eumelanin, the biopigment pr
 
 ### News
 
-10 Mar 2021 - I have been chosen to represent the Royal Society at the [Voice of the Future 2021](https://my.rsb.org.uk/item.php?eventid=3234) event with MPs and members of the UK government
+07 Jun 2021 - I am organizing the [E-Mat Symposium](www.e-mat.org), an event featuring early career and established experts in eumelanin-inspired materials 
+
+02 Jun 2021 - I am giving a talk at the eMRS Meeting
+
+31 March 2021 - I am giving a research seminar at QMUL
+
+30 March 2021 - I am giving a talk at the RSC Faraday Meeting
+
+02 Dec 2020 - I am presenting 2 talks at the MRS Fall Meeting
 
 04 Aug 2020 - Read the accepted Chemistry of Materials paper on ion chelation and coordination in p(g2T-TT) [here](https://pubs.acs.org/doi/10.1021/acs.chemmater.0c01984)
 
