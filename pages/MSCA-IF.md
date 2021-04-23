@@ -15,3 +15,7 @@ However, the lack of structural information due to a low solubility and chemical
 I am leading an ambitious research project that aims to unravel the structure, self-assembly and electronic properties of eumelanin-derived materials in order to boost its exploitation as mixed conducting material in bioelectronic devices. My model takes into account the chemical disorder of eumelanin (tautomerisation, oxidation) and aims to elucidate its effect on the electronic structure and charge transport characteristics of this material by integrating experimental data with kinetics, electronic structure calculations and molecular dynamics simulations.
 
 
+Below is a poster summarizing my ongoing research on DHICA and DHI melanins.
+
+
+![poster](/images/ACSSpring21_MMatta.pdf){:width=10%}
