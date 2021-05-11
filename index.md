@@ -22,6 +22,8 @@ I am working on developing a computational model of eumelanin, the biopigment pr
 
 26 May 2021 - I am teaching a MDAnalysis [workshop](https://www.mdanalysis.org/2021/04/09/prace-workshop/)
 
+07 May 2021 - I am giving a [seminar](https://memento.epfl.ch/event/imx-talks-polymers-and-bioinspired-materials-for-4/) at EPFL! 
+
 21 April 2021 - Check out my [poster](images/ACSSpring21_MMatta.pdf) for the 2021 Spring ACS Meeting
 
 31 March 2021 - I am giving a research seminar at QMUL
